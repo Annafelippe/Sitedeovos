@@ -1,0 +1,74 @@
+header {
+    background-color: #074218;
+    justify-content: space-around;
+}
+
+h2 {
+    color: #d6481d;
+    font-size: 250%;
+}
+
+.botao {
+    color: yellow;
+    padding: 80px;
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: none;
+
+}
+
+p,
+li {
+
+    font-size: 30px;
+    text-align: center;
+    
+
+}
+
+.imagemdireita {
+    display: flex;
+    justify-content: space-around;
+}
+
+.imagemdireita p {
+    width: 50%;
+
+}
+.lista {
+
+    
+}
+
+.imagemdireita img {
+    width: 30%;
+    left: 50%;
+}
+.imagemesquerda {
+display: flex;
+justify-content: space-around;
+}
+.imagemesquerda p {
+    width: 30%;
+
+}
+
+.imagemesquerda img {
+    width: 30%;
+    left: 50%;
+}
+
+.beneficiosdoovo {
+    margin-right: 5%;
+}
+
+.dadospessoais{
+    margin-left: 30%;
+
+}
+footer {
+    font: size 5vh;
+}
+.dadospessoais {
+    align-items: center;
+}
